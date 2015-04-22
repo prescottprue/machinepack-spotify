@@ -1,0 +1,26 @@
+{
+  "name": "machinepack-spotify",
+  "version": "0.0.1",
+  "description": "Communicate with the Spotify API.",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "Spotify",
+    "machines",
+    "machinepack"
+  ],
+  "author": "Prescott Prue (github.com/prescottprue/machinepack-spotify)",
+  "license": "MIT",
+  "dependencies":{
+    "machine": "^3.0.0"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "machinepack": {
+    "friendlyName": "Spotify",
+    "machineDir": "machines/",
+    "machines": ["spotify-login-url"]
+  }
+}
