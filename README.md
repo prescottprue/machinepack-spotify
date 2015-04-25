@@ -11,7 +11,7 @@ Communicate with the Spotify API.
 ### Spotify API Docs
 #### [Getting Started](https://developer.spotify.com/web-api/tutorial/) &nbsp; &nbsp; [Auth](https://developer.spotify.com/web-api/authorization-guide/)
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-spotify.svg)](http://badge.fury.io/js/machinepack-spotify) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-spotify.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-spotify)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-spotify.svg)](http://badge.fury.io/js/machinepack-spotify) [![Build Status](https://travis-ci.org/prescottprue/machinepack-spotify.svg?branch=master)](https://travis-ci.org/mikermcneil/machinepack-spotify)
 
 ```sh
 $ npm install machinepack-spotify
