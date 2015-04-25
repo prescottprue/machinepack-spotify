@@ -12,7 +12,7 @@
   ],
   "author": "Prescott Prue (https://github.com/prescottprue)",
   "license": "MIT",
-  "dependencies":{
+  "dependencies": {
     "machine": "^3.0.0"
   },
   "repository": {
@@ -25,6 +25,14 @@
   "machinepack": {
     "friendlyName": "Spotify",
     "machineDir": "machines/",
-    "machines": ["spotify-login-url"]
+    "iconSrc": "http://a5.mzstatic.com/us/r30/Purple7/v4/bd/87/ae/bd87aec8-6c6c-eb2b-2534-03a319d2787a/icon175x175.png",
+    "machines": [
+      "get-login-url",
+      "get-access-token"
+    ],
+    "devLinks": [
+      "https://developer.spotify.com/web-api"
+    ],
+    "testsUrl": "https://travis-ci.org/prescottprue/machinepack-spotify"
   }
 }
