@@ -1,13 +1,13 @@
 module.exports = {
 
 
-  friendlyName: 'get-access-token',
+  friendlyName: 'Get Access Token',
 
 
   description: 'Get access token to use with requests to Spotify Web API.',
 
 
-  extendedDescription: '',
+  extendedDescription: 'Get access token using your Client ID and Client Secret for use with requests to Spotify Web API.',
 
 
   inputs: {

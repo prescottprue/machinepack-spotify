@@ -1,6 +1,6 @@
 {
   "name": "machinepack-spotify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Communicate with the Spotify API.",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
